@@ -127,6 +127,37 @@ NRC: 10149
 
 
 
+
+**TABLA 2 (corriente)**
+**Capacitor (circuito A)**
+|Frecuencia (Hz)| Corriente (A) |
+|------|------|
+|0|-0.0294  |
+|10| 0.0544|
+|50| 0.02545|
+|100| -0.0469|
+|500| 0.0462|
+|1000| 0.00599|
+
+
+**Inductor (circuito B)**
+|Frecuencia (Hz)| Corriente (A) |
+|------|------|
+|0| -0.07632 |
+|10| 0.01|
+|50| 0.03|
+|100| 0.035|
+|500| 0.06|
+|1000| 0.05|
+
+
+
+
+
+
+
+
+
 ## 4. Video 
 
 ## 5. Conclusiones
