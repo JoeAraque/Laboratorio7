@@ -44,6 +44,8 @@ NRC: 10149
 
 ![circuito1](https://user-images.githubusercontent.com/93224166/152911999-f9872343-abe4-4543-a89c-d700fbaaf31f.png)
 
+![circ](https://user-images.githubusercontent.com/93224166/153022845-c176de86-782b-4a3c-88c3-ce96c59fc825.png)
+
 2. Utilizar el osciloscopio para observar el voltaje V0 variando entre los valores de 0, 10, 50, 100, 500, 1000 Hz. 
 
 **0 hz**
@@ -111,6 +113,9 @@ NRC: 10149
 
 
 ![circuito2](https://user-images.githubusercontent.com/93224166/152911998-a10ae9a6-a216-4f68-9a65-da683b1d45fc.png)
+
+![cirl](https://user-images.githubusercontent.com/93224166/153022892-364ebcf3-56d4-4caa-a4a8-0f914b42f959.png)
+
 
 2. Utilizar el osciloscopio para observar el voltaje V0 variando entre los valores de 0, 10, 50, 100, 500, 1000 Hz. 
 
@@ -188,10 +193,10 @@ NRC: 10149
 
 
 
-|Frecuencia (Hz)| Voltaje (V) |
-|------|------|
-|0| 6.92|
-|10|9.89|
+|**Frecuencia (Hz)**| **Voltaje (V)  Osciloscopio**| **Voltaje Multimetro**|**Corriente**|
+|------|------|-------|------|
+|0| 0|0|0|
+|10|9.89|3|2|
 |50|9.98|
 |100|6.22|
 |500|1.62|
@@ -200,9 +205,9 @@ NRC: 10149
 
 
 
-**Inductor (circuito b) **
-|Frecuencia (Hz)| Voltaje (V) |
-|------|------|
+**Inductor**
+|**Frecuencia (Hz)**| **Voltaje (V)  Osciloscopio**| **Voltaje Multimetro**|**Corriente**|
+|------|------|---|--|
 |0| 300mV|
 |10|314.34mV|
 |50|1.55|
