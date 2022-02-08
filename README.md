@@ -64,6 +64,28 @@ NRC: 10149
 ### Tabla de Valores
 **Capacitores**
 
+
+
+
+
+|Frecuencia (Hz)| Voltaje (V) |
+|------|------|
+|0| 6.92|
+|10|9.89|
+|50|9.98|
+|100|6.22|
+|500|1.62|
+|1000|930.39 mV|
+
+
+
+
+
+
+
+
+
+
 |Frecuencia (Hz)| Voltaje (V) |
 |------|------|
 |0| 2.2 |
