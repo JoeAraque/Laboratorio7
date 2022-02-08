@@ -26,40 +26,160 @@ NRC: 10149
 
 
 
-## 3. Explicacion y Resolucion de ejercicios o Problemas
-### Circuitos a realizar
+## 3. Explicacion y Procedimiento
+### Materiales
+* Generador de señales
+* Fuente DC
+* Osciloscopio
+* Protoboard
+* Multímetro
+* Cables conductores
+* 2 Resistor (100 Ohm)
+* 2 Capacitor (10 uF)
+* 2 Bobina (100 mH)
+
+### Procedimiento 1
+
+1. Armar el circuito de la Figura 1
 
 ![circuito1](https://user-images.githubusercontent.com/93224166/152911999-f9872343-abe4-4543-a89c-d700fbaaf31f.png)
 
+2. Utilizar el osciloscopio para observar el voltaje V0 variando entre los valores de 0, 10, 50, 100, 500, 1000 Hz. 
+
+**0 hz**
+
+![c1 1](https://user-images.githubusercontent.com/93224166/153017542-8a053a68-29e7-4420-8ef4-fc27c0846157.png)
+
+**10 hz**
+
+![c2 1](https://user-images.githubusercontent.com/93224166/153017548-7143fe4b-71af-4fe9-a29b-7429e71eef2f.png)
+
+**50 hz**
+
+![c3 1](https://user-images.githubusercontent.com/93224166/153017554-37114075-e357-4352-8782-d1e6bf8e3da0.png)
+
+**100 hz**
+
+![c4 1](https://user-images.githubusercontent.com/93224166/153017515-1e7ca682-c8c8-4823-9104-3cee95592027.png)
+
+**500 hz**
+
+![c5 1](https://user-images.githubusercontent.com/93224166/153017534-3d9ece85-1d55-4e27-9f44-69f1d08c3122.png)
+
+**1000 hz**
+
+![c6 1](https://user-images.githubusercontent.com/93224166/153017540-8edd3dc1-5299-4c18-9be1-39541346d146.png)
+
+
+
+
+3. Utilizar le multímetro para medir el voltaje V0 variando la freciencia enmtre los valores de 0,10, 50, 100, 500, 1000 Hz. 
+4. Utilizar el multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. 
+
+
+**0 hz**
+
+![c1 2](https://user-images.githubusercontent.com/93224166/153017544-be6abf0b-fcd3-42c8-aa95-a1872afd2e2d.png)
+
+
+**10 hz**
+
+![c2 2](https://user-images.githubusercontent.com/93224166/153017553-c6f8281a-4be5-4558-9c0d-d317b1ac927e.png)
+
+
+**50 hz**
+
+![c3 2](https://user-images.githubusercontent.com/93224166/153017559-b5aa17f7-3253-48fc-b71a-c15c4eb8fa33.png)
+
+
+**100 hz**
+
+![c4 2](https://user-images.githubusercontent.com/93224166/153017530-fe064382-1b0c-440e-8968-8d7674ff1b06.png)
+
+
+**500 hz**
+
+![c5 2](https://user-images.githubusercontent.com/93224166/153017539-01a80545-4ca1-44ad-b2f6-84f331cd57c1.png)
+
+
+**1000 hz**
+
+![c6 2](https://user-images.githubusercontent.com/93224166/153017541-ce3b18f3-19ff-4897-8002-22d6535843c5.png)
+
+### Proceso 2
+1. Armar el circuito de la Figura 1
+
+
 ![circuito2](https://user-images.githubusercontent.com/93224166/152911998-a10ae9a6-a216-4f68-9a65-da683b1d45fc.png)
 
-### Mediciones con capacitores
+2. Utilizar el osciloscopio para observar el voltaje V0 variando entre los valores de 0, 10, 50, 100, 500, 1000 Hz. 
 
-![med1 1](https://user-images.githubusercontent.com/93224166/152911267-6ad3f195-8975-4fdd-a0d5-6f8c0489ec29.png)
 
-![med1 2](https://user-images.githubusercontent.com/93224166/152911269-79757728-d271-4698-bf43-2b1f15a48783.png)
+**0 hz**
 
-![med1 3](https://user-images.githubusercontent.com/93224166/152911271-fbb5cbaf-4e75-44f8-8779-e2ba559c52ab.png)
+![l1 1](https://user-images.githubusercontent.com/93224166/153020978-0a394fbd-e292-4fa7-a3ca-c615d44ae0f5.png)
 
-![med1 4](https://user-images.githubusercontent.com/93224166/152911274-82ad9b38-bb76-41b5-89b2-aebe241a9aa1.png)
 
-![med1 5](https://user-images.githubusercontent.com/93224166/152911275-22dad7cc-9505-44b6-965b-d95972af1001.png)
+**10 hz**
 
-![med1 6](https://user-images.githubusercontent.com/93224166/152911255-e65a5e97-bbee-451f-95a2-d0e34d1c71a3.png)
+![l2 1](https://user-images.githubusercontent.com/93224166/153020985-010d4145-4c5d-4bf3-9b58-ccc604d4c92b.png)
+
+
+**50 hz**
+
+![l3 1](https://user-images.githubusercontent.com/93224166/153020987-9f2c8ada-7884-47c8-b21b-c5cbadd44df6.png)
+
+
+**100 hz**
+
+![l4 1](https://user-images.githubusercontent.com/93224166/153020994-e806dfe5-bcd6-4ab9-a1f2-a9099ece883f.png)
+
+**500 hz**
+
+![l5 1](https://user-images.githubusercontent.com/93224166/153020959-5a75e229-fc46-40a1-b0fd-391de9ec4c26.png)
+
+
+**1000 hz**
+
+![l6 1](https://user-images.githubusercontent.com/93224166/153020972-f3594b22-9536-4de1-91dc-e589f9fe4dd3.png)
+
+
+
+3.  Utilizar le multímetro para medir el voltaje V0 variando la freciencia enmtre los valores de 0,10, 50, 100, 500, 1000 Hz. 
+4. Utilizar el multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. 
+
+
+**0 hz**
+
+![l1 2](https://user-images.githubusercontent.com/93224166/153020981-1867d78b-12fd-4b6f-9b12-56e7c8e33ad0.png)
+
+
+**10 hz**
+
+![l2 2](https://user-images.githubusercontent.com/93224166/153020986-01760b6c-3b5c-49a4-9c76-26113bb557d1.png)
+
+
+**50 hz**
+
+![l3 2](https://user-images.githubusercontent.com/93224166/153020991-8c7f762e-72da-409b-b067-806cde705998.png)
+
+
+**100 hz**
+![l4 2](https://user-images.githubusercontent.com/93224166/153020997-9bc78590-2c34-436f-80c4-d495270b4a6e.png)
+
+
+**500 hz**
+
+![l5 2](https://user-images.githubusercontent.com/93224166/153020969-b0467131-ec83-4530-bd07-677437c08548.png)
+
+
+**1000 hz**
+
+![l6 2](https://user-images.githubusercontent.com/93224166/153020976-a70e52d4-068c-46d2-921c-d821a63655d7.png)
 
 ### Mediciones con Inductores
 
-![med2 1](https://user-images.githubusercontent.com/93224166/152911257-6d6f8f5b-992a-4fa9-9e63-e492a1db8a30.png)
 
-![med2 2](https://user-images.githubusercontent.com/93224166/152911259-dc43ffff-eff2-43a5-8161-c262cfbf9c39.png)
-
-![med2 3](https://user-images.githubusercontent.com/93224166/152911260-593e52c5-ce8c-4863-9a81-13f90c4493a0.png)
-
-![med2 4](https://user-images.githubusercontent.com/93224166/152911262-d6cf7b8d-611f-4adc-923d-6653f24871d9.png)
-
-![med2 5](https://user-images.githubusercontent.com/93224166/152911264-691a7d8e-20b1-49fb-9a28-d43e0ffe34d7.png)
-
-![med2 6](https://user-images.githubusercontent.com/93224166/152911266-488d9146-096f-4817-aa96-ad0a2241645f.png)
 
 ### Tabla de Valores
 **Capacitores**
