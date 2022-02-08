@@ -159,6 +159,9 @@ NRC: 10149
 
 
 ## 4. Video 
+https://youtu.be/aCagwG7Gotw
 
 ## 5. Conclusiones
 ## 6. Bibliografia
+Floyd, T. L. (2010). Principios de circuitos el??ctricos. Pearson Educacion.
+
