@@ -81,7 +81,7 @@ NRC: 10149
 
 **0 hz**
 
-![c1 2](https://user-images.githubusercontent.com/93224166/153017544-be6abf0b-fcd3-42c8-aa95-a1872afd2e2d.png)
+![c1 2](https://user-images.githubusercontent.com/93224166/153025230-c7f62cf4-ddf5-4ebc-9522-8e09bf324448.png)
 
 
 **10 hz**
