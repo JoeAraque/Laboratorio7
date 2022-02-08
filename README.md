@@ -62,6 +62,7 @@ NRC: 10149
 ![med2 6](https://user-images.githubusercontent.com/93224166/152911266-488d9146-096f-4817-aa96-ad0a2241645f.png)
 
 ### Tabla de Valores
+**Capacitores**
 
 |Frecuencia (Hz)| Voltaje (V) |
 |------|------|
