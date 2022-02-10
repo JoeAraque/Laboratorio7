@@ -9,6 +9,7 @@ NRC: 10149
 ### TEMA: INDUCTOR Y CAPACITOR
 ## 1. Objetivos
 ### Objetivo general
+Diseñar y comprobar en un circuito con corriente alterna el comportamiento de los capacitores e inductores mediante la utilizacion de osciloscopio y multimetro 
 
 ### Objetivos especificos
 - Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
@@ -218,14 +219,26 @@ NRC: 10149
 |500|8.37|5.97|28.81|
 |1000|9.51|6.75|32.13|
 
+### Analisis de resultados.
+* Podemos darnos cuenta que en circuito con capacitores cuando la frecuencia baja el voltaje crece expecto con el cero, porque no se crea una linea recta que es como que no hubiera voltaje.
+* En el circuito con inductores entre menor la frecuencia el voltaje tambien decrece, y si es mas alto el voltaje tambien crece. Pero cuando frecuencia cero el osciloscopio no me marca nada.
 
+### Respondiendo Preguntas.
 
+**1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
+El comportamiento del capacitor se lo tomara como un circuito abierto que no permite el paso de corriente , en cambio la bobina genera el campo magnetico que varia en el tiempo de manera continua. 
 
+**2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
 
+* El comportamiento del capacitor es que el voltaje se encuentra desfasado con respecto a la corriente, es como un cable y el de la bobina genera un voltaje eléctrico, que se resiste a un cambio de la corriente que pasa a través suyo.
 
+**3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
 
+*  Afectaria en la reactancia inductiva, el cual puede reducir la corriente o aumentarla y con esto el valor del voltaje Vo. En cambio con los capacitores como estan en paralelo se sumarian sus valores, afectando principalmente al Vo.
 
+**¿Qué son los valores eficaces de voltaje y corriente?**
+ * Los valores eficaces o RMS  y consiste de un valor de CD (corriente directa) que transmite la misma potencia promedio a un resistor, que la que debe transmitir una fuente variable de manera periódica.
 
 
 
@@ -249,10 +262,8 @@ NRC: 10149
 https://youtu.be/aCagwG7Gotw
 
 ## 5. Conclusiones
-
-* En este laboratio concluimos que con los capacitores hay un punto maximo de voltaje y de ahi empieza a disminuir 
-* Concluimos que con inductores en el osciloscopio a mayor herz las ondas son mas grandes y el voltaje a mayor herz aumenta de igual manera
-
+* Podemos observar que en los capacitores mientras mas bajo es la frecuencia el Voltaje tiende a ser mas alto, en cambio en los inductores entre mas bajo la frecuencia el voltaje tambien Baja.
+* Que si ponemos la frecuencia en cero el osciloscopio nos marco una linea recta como si fuera corriente continua.
 ## 6. Bibliografia
 Floyd, T. L. (2010). Principios de circuitos el??ctricos. Pearson Educacion.
 
