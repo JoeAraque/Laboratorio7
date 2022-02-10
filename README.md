@@ -249,6 +249,10 @@ NRC: 10149
 https://youtu.be/aCagwG7Gotw
 
 ## 5. Conclusiones
+
+* En este laboratio concluimos que con los capacitores hay un punto maximo de voltaje y de ahi empieza a disminuir 
+* Concluimos que con inductores en el osciloscopio a mayor herz las ondas son mas grandes y el voltaje a mayor herz aumenta de igual manera
+
 ## 6. Bibliografia
 Floyd, T. L. (2010). Principios de circuitos el??ctricos. Pearson Educacion.
 
