@@ -24,6 +24,8 @@ NRC: 10149
 
 ### Inductores
 
+![INDUC](https://user-images.githubusercontent.com/93951775/153420700-283db5f5-c7dd-4bf1-8ef0-89ad01e2b2b4.jpeg)
+
 
 
 ## 3. Explicacion y Procedimiento
